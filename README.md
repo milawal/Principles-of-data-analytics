@@ -31,4 +31,12 @@ tasks.ipynb contains all the steps to load the Iris dataset, perform statistical
 - Jupyter
 
 ## References
+[NumPy Documentation](https://numpy.org/doc/)
+[Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
+[Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
+[Seaborn Documentation](https://seaborn.pydata.org/)
+[Scikit-learn Documentation](https://scikit-learn.org/stable/)
+
 - 
+## Conclusion
+By following the steps in this repository, you can easily load and analyze the Iris dataset. The visualizations and statistical analyses provide a deeper understanding of the relationships between the features and the Iris species. The pairplot and heatmap especially give a clear visual representation of the data's structure and correlations.
